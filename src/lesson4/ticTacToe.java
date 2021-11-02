@@ -2,7 +2,7 @@ package lesson4;
 
 import java.util.Scanner;
 
-public class task6 {
+public class ticTacToe {
     public static final String EMPTY = "   ", CROSS = " X ", NULL = " O ";
     public static String player;
     public static final int ROW = 3, COLUMN = 3;
